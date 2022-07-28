@@ -31,7 +31,7 @@ body {
     z-index: 20;
     background-color: white;
     opacity: 0;
-    animation: mask 3s;
+    animation: mask 2s;
   }
 
   .space {
@@ -39,7 +39,7 @@ body {
     width: 100%;
     transform: scale(1);
     transform-origin: center;
-    animation: space 3s;
+    animation: space 2s;
   }
 
   @keyframes mask {
@@ -70,7 +70,7 @@ body {
   .text2 {
     top: 11%;
     left: 65%;
-    animation: text2 4s;
+    animation: text2 3s;
   }
 
   @keyframes text2 {
@@ -87,7 +87,7 @@ body {
   .text3 {
     top: 6%;
     left: 79%;
-    animation: text3 5s;
+    animation: text3 4s;
   }
 
   @keyframes text3 {
@@ -102,7 +102,7 @@ body {
   }
 
   .logo {
-    animation: logo 3.5s;
+    animation: logo 2.5s;
   }
 
   @keyframes logo {
@@ -135,8 +135,7 @@ body {
     top: -48%;
     left: auto;
     right: 40%;
-    // height: 93%;
-    animation: shoe 2s;
+    animation: shoe 1s;
   }
 
   @keyframes shoe {
@@ -171,7 +170,7 @@ body {
 
   .text1 {
     transform: scale(1);
-    animation: text1 5s;
+    animation: text1 4s;
     top: 0%;
   }
 
@@ -199,7 +198,7 @@ body {
 
   .tfp {
     z-index: 100;
-    animation: tfp 4s;
+    animation: tfp 3s;
   }
 
   @keyframes tfp {
@@ -236,8 +235,7 @@ body {
 
   .bg-second {
     opacity: 0.9;
-    animation: bg-second 5s;
-    // height: 100%;
+    animation: bg-second 4s;
     width: 100%;
   }
 
@@ -275,7 +273,7 @@ body {
 
   .btn-block {
     position: absolute;
-    animation: btn-block 5s;
+    animation: btn-block 4s;
     right: 5%;
     top: 80%;
 
